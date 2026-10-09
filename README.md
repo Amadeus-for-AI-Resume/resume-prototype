@@ -28,15 +28,3 @@ These statements have not been independently verified against registration recor
 ## Deployment
 
 The static files are deployed on Cloudflare Pages at https://amadeu.tech/. No build command or dependencies are needed. Include the .mjs files; use HTTPS for clipboard support. Do not upload the workspace's unrelated old index.html or .openai hosting identity.
-
-## Application readiness
-
-The Claude Startups application was submitted on October 9, 2026. The confirmation page says the team is reviewing it and asks for up to 72 hours; approval or credits are not guaranteed.
-
-- Public website: https://amadeu.tech/
-- Public GitHub organization: https://github.com/Amadeus-for-AI-Resume
-- Domain and Cloudflare Pages deployment are live.
-- Cloudflare Email Routing is configured for contact@amadeu.tech to the founder's verified Gmail; a self-test was sent, but inbound delivery is still being rechecked.
-- The founder states that the company operates in the United States and targets U.S. users.
-
-The application was submitted with truthful founder-supplied company facts. No user count, revenue, funding, investor, or program approval has been invented.
