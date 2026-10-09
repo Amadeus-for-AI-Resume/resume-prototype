@@ -26,9 +26,7 @@ Resume content is kept only in tab memory. No storage, analytics, accounts, serv
 
 These statements have not been independently verified against registration records. No LLC/Inc suffix has been assumed.
 
-## Deployment
 
-Upload this folder's static files to Cloudflare Pages. No build command or dependencies are needed. Include the .mjs files; use HTTPS for clipboard support. Do not upload the workspace's unrelated old index.html or .openai hosting identity.
 
 ## Application readiness
 
